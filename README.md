@@ -31,3 +31,14 @@ GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle 
 * git remote: Gerenciar conjunto de repositórios rastreados.
 * git push: Atualizar referências remotas junto com objetos associados .
 
+### Processo Prático
+
+1. Acessar o repositório local e executar o git bash (terminal git) dentro deste diretório
+2. No git bash executar o comando git init
+3. Executar o comando git add .
+4. Executar o comando git commit -m "first commit"
+5. Após a criação do repositório remoto no Github, executar o comando: git branch -M main
+6. Executar o comando git remote add origin "url do repositório remoto"
+7. Executar o comando git push -u origin main
+8. **OBS.: Para a realização dos procedimentos anteriores, é necessário a autenticação do usuário do Github no terminal do Git (user.name, user.email, token)
+
