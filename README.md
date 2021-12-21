@@ -40,5 +40,6 @@ GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle 
 5. Após a criação do repositório remoto no Github, executar o comando: git branch -M main
 6. Executar o comando git remote add origin "url do repositório remoto"
 7. Executar o comando git push -u origin main
-8. **OBS.: Para a realização dos procedimentos anteriores, é necessário a autenticação do usuário do Github no terminal do Git (user.name, user.email, token)
+
+ **OBS.: Para a realização dos procedimentos anteriores, é necessário a autenticação do usuário do Github no terminal do Git (user.name, user.email, token)**
 
