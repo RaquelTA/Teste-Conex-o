@@ -1,4 +1,4 @@
-# ESTUDOMD
+# Estudo: Markdown
 Este repositório tem o objetivo de descrever como funciona a *síntaxe* de formatação de arquivos do tipo **markdown**
 
 **E este trecho está todo em negrito devido o que estou aprendendo... que é o estilo de fonte.**
